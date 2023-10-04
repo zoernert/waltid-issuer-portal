@@ -102,6 +102,6 @@ export default {
 
   ssr: false,
   server: {
-    port: 8000
+    port: 8080
   }
 }
